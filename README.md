@@ -17,7 +17,7 @@ I'm a passionate Backend Developer with a focus on creating efficient and scalab
 ## 📫 Get in touch
 - **Website:** [See my Portofolio here](https://example.cvgo.my.id/)
 - **LinkedIn:** [ilham-s-saksena](www.linkedin.com/in/ilham-sidik-saksena)
-- **Email:** your-email@example.com
+- **Email:** ilhamsidikc@gmail.com
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
