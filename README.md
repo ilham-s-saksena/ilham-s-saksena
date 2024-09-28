@@ -37,7 +37,19 @@ I'm a passionate Backend Developer with a focus on creating efficient and scalab
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
+
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilham-s-saksena&show_icons=true&theme=dark&locale=en&layout=compact" alt="ilham-s-saksena" /></p>
+-->
+
+<h2 align="center"> 📊 Github Stats 📊 </h2>
+<p align="center">
+<a href="https://github.com/marselhr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilham-s-saksena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilham-s-saksena&layout=compact&langs_count=8&theme=algolia"/>
+ 
+</a>
+</p>
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
