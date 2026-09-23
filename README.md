@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ilham Sidik Saksena</h1>
+<h1 align="center">Hi, I'm Ilham Sidik Saksena</h1>
 <h3 align="center">A passionate backend developer from indonesia</h3>
 
 I'm a passionate Backend Developer with a focus on creating efficient and scalable web applications. I have experience in various technologies including PHP, Laravel, Docker, and databases like MySQL and PostgreSQL. I also develop mobile applications using Flutter.
@@ -13,7 +13,7 @@ I'm a passionate Backend Developer with a focus on creating efficient and scalab
 
 
 
-<h2 align="center"> 📊 Github Stats 📊 </h2>
+<h2 align="center"> Github Stats </h2>
 <p align="center">
 <a href="https://github.com/marselhr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilham-s-saksena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,7 @@ I'm a passionate Backend Developer with a focus on creating efficient and scalab
 </p>
 
 
-<h2 align="center">🐍 My Contributions🐍</h2>
+<h2 align="center">My Contributions</h2>
 
 <img alt="snake eating my contibutions" src="https://raw.githubusercontent.com/ilham-s-saksena/ilham-s-saksena/output/github-contribution-grid-snake-dark.svg" />
 
